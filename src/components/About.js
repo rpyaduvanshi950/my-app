@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-import { Container, Row, Col, Card } from 'react-bootstrap';
+import { Container, Col, Card } from 'react-bootstrap';
 import './style.css'
 export class About extends Component {
   render() {
