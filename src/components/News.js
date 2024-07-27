@@ -134,7 +134,6 @@ export class News extends Component {
         pagesize: PropTypes.number,
         category: PropTypes.string,
         setProgress: PropTypes.func.isRequired,
-        apikey: PropTypes.string.isRequired,
     };
 
     constructor(props) {
